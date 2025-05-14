@@ -44,7 +44,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 22 anos, moro em BH e sou programador iniciante. Atualmente sou <code>estudante</code> do curso de Ciência da Computação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
